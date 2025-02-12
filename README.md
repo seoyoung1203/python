@@ -1,4 +1,5 @@
 # python
+
 ## 가상횐경
 
     - python -m venv venv: 가상환경 생성
