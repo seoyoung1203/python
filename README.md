@@ -4,7 +4,7 @@
 
     - python -m venv venv: 가상환경 생성
     - source venv /scripts/activate: 가상환경 활성화
-    - deactivate 가상환경에서 나오기
-pip : 파이썬 프로그래밍 언어로 만들어진 
+    - deactivate 가상환경 비활성화
 
 
+c
